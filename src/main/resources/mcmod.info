@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "arc",
+    "name": "Arc",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/ProfessorProspector/Arc",
+    "authorList": [
+      "Prospector"
+    ],
+    "credits": "",
+    "logoFile": "logo.png"
+  }
+]
