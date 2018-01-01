@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class ArcItems {
 	protected static final ArrayList<Item> ITEMS = new ArrayList<>();
 
-	public static final Item WRENCH = register(new StarItem(Arc.MOD_ID, "testItem"));
+	public static final Item WRENCH = register(new StarItem(Arc.MOD_ID, "test_item"));
 
 	public static Item register(Item item) {
 		item.setCreativeTab(Arc.TAB);
